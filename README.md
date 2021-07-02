@@ -5,7 +5,7 @@ Jarvis is my very own personal assistant which helps me do some useful tasks lik
 Download the complete folder and save it anywhere in your desktop. Open the file named Jarvis.py in a any python IDE such as pycharm, anaconda etc.
 
 Install pyttsx3, datetime, speech recognition, wikipedia, webbrowser, os, smtplib libraries in your interpreter if they are not present. Once installed, you're ready to use the software.
-
+# Basic Summary
 Once you run the code your personal assistant will greet you and you are ready to give it the tasks. Just speak what you want the assistant to do and you will get the results. It will keep on taking your commands till you say bye or quit and the assistant will stop.
 
 # Code Explanation
